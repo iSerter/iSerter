@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**iSerter/iSerter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a software developer (duh!) focused on the following tech stack;
 
-Here are some ideas to get you started:
+✓ Javascript / TypeScript (React, Vue, jQuery)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✓ PHP (Laravel, CakePHP, CodeIgniter, PhalconPHP, Symfony, Zend)
+
+✓ DBMS (MySQL, PostgreSQL, Redis, MongoDB)
+
+✓ DevOps & Linux systems (Docker, nginx, php-fpm, apache, supervisor, redis)
+
+✓ Amazon Web Services (EC2, Lambda, S3, Cloudwatch, SNS, SQS)
+
+
+
+
+![github visit counter](https://devscope.io/github-counter/iSerter.svg)
