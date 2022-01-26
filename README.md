@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a software developer (duh!) focused on the following tech stack;
+Here's my primary tech stack;
 
 ✓ Javascript / TypeScript (React, Vue, jQuery)
 
@@ -11,6 +11,8 @@ I am a software developer (duh!) focused on the following tech stack;
 ✓ DevOps & Linux systems (Docker, nginx, php-fpm, apache, supervisor, redis)
 
 ✓ Amazon Web Services (EC2, Lambda, S3, Cloudwatch, SNS, SQS)
+
+and I also stalk Golang. 
 
 
 
