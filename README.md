@@ -13,8 +13,3 @@ Here's my primary tech stack;
 ✓ Amazon Web Services (EC2, Lambda, S3, Cloudwatch, SNS, SQS)
 
 and I also stalk Golang. 
-
-
-
-
-![github visit counter](https://devscope.io/github-counter/iSerter.svg)
