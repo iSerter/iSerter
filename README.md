@@ -2,9 +2,9 @@
 
 Here's my primary tech stack;
 
-✓ Javascript / TypeScript (React, Vue, jQuery)
+✓ Javascript / TypeScript (Nest, React, Vue, jQuery)
 
-✓ PHP (Laravel, CakePHP, CodeIgniter, PhalconPHP, Symfony, Zend)
+✓ PHP (Laravel, CakePHP, CodeIgniter, PhalconPHP)
 
 ✓ DBMS (MySQL, PostgreSQL, Redis, MongoDB)
 
