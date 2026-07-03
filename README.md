@@ -10,7 +10,7 @@ self-verifying harnesses — then directing and reviewing the output.
 **What I'm building right now**
 - 🌐 **SAGE GRIDS** — A botique AI software business focused on engineering high-performance distribution and outreach solutions specifically designed for tech entrepreneurs.
 - 5 WordPress plugins for Automated Content Marketing & Cold Outreach.
-- MAGO (Marketing Asset Generator & Outreach): A web app for streamlining content creation and social media engagement.
+- MAGO (Marketing Asset Generator & Outreach): An enterprise web app for streamlining content creation and social media engagement.
 - Mograph Sage: A desktop app for creating motion graphic videos (Remotion Wrapper).
 - {to-be-named] : A mobile mindset engine & habit-building app (with backend and web app) for tech entrepreneurs.
 
