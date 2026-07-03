@@ -8,6 +8,7 @@ that lets AI agent fleets own whole workflows: reusable skills, rules, context, 
 self-verifying harnesses — then directing and reviewing the output.
 
 **What I'm building right now**
+
 I validate the market demand for the obstacles I run into, and then create solutions for them. I practice new technologies with each project. 
 
 - 🌐 **[SAGE GRIDS](https://www.sagegrids.com)** — A boutique AI software business focused on engineering high-performance distribution and outreach solutions specifically designed for tech entrepreneurs.
