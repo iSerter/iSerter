@@ -2,10 +2,15 @@
 
 I build systems that let AI agents ship software — end to end.
 
-12+ years full-stack (PHP, TypeScript, React, Node/Nest, Laravel, AWS). These
-days I spend less time writing code by hand and more time building the leverage
+I started my software engineering journey 2 decades ago in high-school(2005). 
+I studied IT/Programming in college and backed it with 12+ years of full-time employment/contract work as a full-stack developer. 
+
+With 2 decades of experience in web software engineering (PHP, TypeScript, React, Node/Nest, Laravel, AWS), I've become an AI-native software engineer. 
+I fell in love with the opportunities of LLMs three years ago when GPT 3.5 was released.
+I've gone deep on prompt engineering, RAG, agentic coding, multi-agent orchestration, MCPs, building my own tools/workflows and such. 
+These days I focus on `harness engineering`, spending less time writing code by hand and more time building the leverage
 that lets AI agent fleets own whole workflows: reusable skills, rules, context, and
-self-verifying harnesses — then directing and reviewing the output.
+self-verifying harnesses — then directing and reviewing the output. 
 
 **What I'm building right now**
 
